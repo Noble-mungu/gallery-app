@@ -2,6 +2,10 @@ Galleria
 A platform for sharing photos and experiences from places around the world.
 
 By Noble Mungu
+
+Deployed link
+https://gall3ria.herokuapp.com/
+
 Description
 A user can:
 
